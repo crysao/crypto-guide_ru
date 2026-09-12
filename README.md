@@ -1,2 +1,2 @@
-# crypto-guide_ru
-Руководство по криптовалюте для начинающих
+# Руководство по криптовалюте для начинающих
+**Language**: [english](https://github.com/crysao/crypto-guide/main) | **Язык**: [русский (текущий)](https://github.com/crysao/crypto-guide_ru/main)
